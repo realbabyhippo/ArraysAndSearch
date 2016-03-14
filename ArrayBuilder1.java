@@ -1,11 +1,11 @@
 //Juliette Kang
 // JK3466
-// ArrayBuilder.java - this class creates an array of rectangle objects and finds the largest rectangle based on its perimeter 
+// ArrayBuilder1.java - this class creates an array of rectangle objects and finds the largest rectangle based on its perimeter 
 
 
 import java.util.Arrays;
 
-public class ArrayBuilder
+public class ArrayBuilder1
 {
         public static void main(String args[])
         {
