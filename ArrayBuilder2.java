@@ -1,10 +1,10 @@
 // Juliette Kang
 // JK3466
-// Problem2.java - this class creates an array of rectangle and uses a recursive binary search to find a rectangle //
+// ArrayBuilder2.java - this class creates an array of rectangle and uses a recursive binary search to find a rectangle //
 
 import java.util.Arrays;
 
-	public class Problem2 
+	public class ArrayBuilder2 
 	{
 	        public static void main(String args[])
 	        {
