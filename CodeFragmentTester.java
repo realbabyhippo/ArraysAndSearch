@@ -1,8 +1,8 @@
 // Juliette Kang
 // JK3466
-// Problem3.java - implement code fragments and test them with various numbers of n and record each run time
+// CodeFragmentTester.java - implement given code fragments and test them with various numbers of n and record each run time
 
-public class Problem3
+public class CodeFragmentTester
 {
 
         public static void main (String [] args)
